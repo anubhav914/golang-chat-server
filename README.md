@@ -8,6 +8,7 @@ This repository contains a minimal program of chat server written in go.
 
 
 Open new terminal to connect to the server
-	nc localhost 6000
+
+        nc localhost 6000
 	>> Welcome to the fancy demo chat!
 	>> What is your nick? 
